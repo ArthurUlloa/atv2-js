@@ -59,7 +59,6 @@ console.log(pares + " valores pares");
 
 
 
-
 //exercicio3
 
 let x = Number(prompt("Digite o valor de X:"));
